@@ -1,0 +1,7 @@
+{
+  "name": "Müşteri Defteri",
+  "description": "Müşteri kargo takibi, malzeme borçları ve alacak bakiye yönetim uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

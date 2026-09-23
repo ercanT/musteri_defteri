@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Müşteri Defteri</string>
+    <string name="title_customer_notepad">Müşteri Defteri</string>
+    <string name="search_placeholder">Müşteri adı, tel, adres veya not ara…</string>
+    <string name="status_paid">Parası Geldi</string>
+    <string name="status_preparing">Hazırlanıyor</string>
+    <string name="status_completed">Tamamlandı</string>
+    <string name="filter_all">Tümü</string>
+    <string name="add_new_customer">Yeni Müşteri Ekle</string>
+    <string name="edit_customer">Müşteri Düzenle</string>
+    <string name="field_full_name">Müşteri Adı ve Soyadı</string>
+    <string name="field_phone">Telefon Numarası</string>
+    <string name="field_address">Adresi</string>
+    <string name="field_extra_notes">Ekstra Alan (Notlar)</string>
+    <string name="field_status">Durum / Statü</string>
+    <string name="btn_save">Kaydet</string>
+    <string name="btn_cancel">İptal</string>
+    <string name="btn_delete">Sil</string>
+    <string name="dialog_delete_title">Müşteriyi Sil</string>
+    <string name="dialog_delete_message">%1$s (ID: #%2$d) kaydını silmek istediğinize emin misiniz? Bu işlem geri alınamaz.</string>
+    <string name="empty_list_title">Henüz müşteri kaydı bulunmuyor</string>
+    <string name="empty_list_desc">Yeni müşteri veya sipariş notu eklemek için sağ alttaki + butonuna dokunun.</string>
+    <string name="empty_search_title">Sonuç bulunamadı</string>
+    <string name="empty_search_desc">Arama kriterlerinize uygun kayıt bulunamadı.</string>
+    <string name="sorting_hint">Sıralama: Parası Geldi ➔ Hazırlanıyor ➔ Tamamlandı</string>
+</resources>
